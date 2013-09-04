@@ -1,0 +1,9 @@
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\bin\Debug\Facebook.exe
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\bin\Debug\Facebook.pdb
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.CrudUsuarios.resources
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.Form1.resources
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.Properties.Resources.resources
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.csproj.GenerateResource.Cache
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.exe
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.pdb
+C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.Facebook.resources
