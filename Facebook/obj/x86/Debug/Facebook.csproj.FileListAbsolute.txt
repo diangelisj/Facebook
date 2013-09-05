@@ -7,3 +7,12 @@ C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Fac
 C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.exe
 C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.pdb
 C:\Users\Jaguatirica\AppData\Local\Temporary Projects\Facebook\obj\x86\Debug\Facebook.Facebook.resources
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.exe
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.pdb
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\bin\Debug\Facebook.exe
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\bin\Debug\Facebook.pdb
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.CrudUsuarios.resources
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.Facebook.resources
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.Form1.resources
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.Properties.Resources.resources
+C:\Users\DIANGELIS\Documents\Visual Studio 2010\Projects\Facebook\Facebook\obj\x86\Debug\Facebook.csproj.GenerateResource.Cache

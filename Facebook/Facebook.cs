@@ -24,9 +24,10 @@ namespace Facebook
 
         private void button1_Click(object sender, EventArgs e)
         {
-            webBrowser1.Document.GetElementById("email").SetAttribute("value", "email");
-            webBrowser1.Document.GetElementById("pass").SetAttribute("value", "senha");
+            webBrowser1.Document.GetElementById("email").SetAttribute("value", "diangelisj@nokiamail.com");
+            webBrowser1.Document.GetElementById("pass").SetAttribute("value", "alt256");
             //https://www.facebook.com/?ref=logo   // link que será clicado após o login
+            webBrowser1.Document.GetElementById("loginbutton").InvokeMember("click");
 
             
            
